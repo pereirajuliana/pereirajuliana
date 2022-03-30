@@ -6,16 +6,13 @@
 <div align="center">
   <a href="https://github.com/pereirajuliana">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pereirajuliana&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img align="right" alt="Ju-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/958736322263138304/958736400935698512/download20220303113531.png">
 
 <div style="display: inline_block"><br>
   <img align="left" alt="Ju-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="left" alt="Ju-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="left" alt="Ju-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="right" alt="Ju-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/958736322263138304/958736400935698512/download20220303113531.png">
 </div>
- 
-    
-
  
 <div> 
   <a href="https://www.youtube.com/JulianaPereira" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>

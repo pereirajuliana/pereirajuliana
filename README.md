@@ -1,7 +1,7 @@
-### Olá! Eu sou a Juliana Pereira. 
+### Hi there! Thanks for coming to my profile, I'm Juliana Pereira. 
 
-- 🔭 I’m currently working as a Product Owner.
-- 🌱 I’m currently studying Computer Engineer.
+- I’m currently working as a Product Owner.
+- I’m currently studying Computer Engineer & Physics.
 
 <div align="center">
   <a href="https://github.com/pereirajuliana">

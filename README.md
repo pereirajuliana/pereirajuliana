@@ -1,8 +1,7 @@
-### Hi there! I'm Juliana Pereira. 
-### Thanks for coming to my profile! 
+### Hi there! I'm Juliana Pereira. Thanks for coming to my profile! ✨
 ###
-- I’m currently working as a Product Owner.
-- I’m currently studying Computer Engineer & Physics.
+- 👩🏻‍💻 I’m currently working as a Product Owner.
+- 📚 I’m currently studying Computer Engineering & Physics.
 ###
 <div align="center">
   <a href="https://github.com/pereirajuliana">
@@ -15,7 +14,6 @@
 </div>
     
 <div> 
-  <a href="https://www.youtube.com/JulianaPereira" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/julipereira_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/pereirajuliana" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href = "mailto:julipereira11.jp@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>

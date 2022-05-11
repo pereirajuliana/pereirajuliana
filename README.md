@@ -11,7 +11,7 @@
 <div style="display: inline_block"><br>
   <img align="left" alt="Ju-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="left" alt="Ju-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="left" alt="Ju-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/CSS/CSS-original.svg">
+  <img align="left" alt="Ju-CSS" height="30" width="40" src="https://www.flaticon.com/br/icone-gratis/css-3_732190">
 </div>
     
 <div> 

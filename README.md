@@ -5,9 +5,9 @@
 ###
 <div align="center">
   <a href="https://github.com/pereirajuliana">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=pereirajuliana&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=pereirajuliana&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img align="right" alt="Ju-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/958736322263138304/958736400935698512/download20220303113531.png">
-      <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pereirajuliana&layout=compact&langs_count=7&theme=dracula"/>
+      <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pereirajuliana&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 <div style="display: inline_block"><br>

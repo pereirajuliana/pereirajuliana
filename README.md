@@ -1,7 +1,8 @@
 ### Hi there! I'm Juliana Pereira. Thanks for coming to my profile! ✨
 ###
 - 👩🏻‍💻 I work as a Product Owner at CheesecakeLabs.
-- 📚 I study Computer Engineering & Data Science.
+- 📊 I hold a degree in Data Science.
+- 📚 I study Computer Engineering.
 ###
 <div align="center">
   <a href="https://github.com/pereirajuliana">

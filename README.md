@@ -2,7 +2,7 @@
 ###
 - 👩🏻‍💻 I work as a Product Owner at CheesecakeLabs.
 - 📊 I hold a degree in Data Science.
-- 📚 I study Computer Engineering.
+- 📚 I am graduating in Computer Engineering.
 ###
 <div align="center">
   <a href="https://github.com/pereirajuliana">

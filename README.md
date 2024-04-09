@@ -1,8 +1,8 @@
 ### Hi there! I'm Juliana Pereira. Thanks for coming to my profile! ✨
 ###
-👩🏻‍💻 I work as a Product Manager at Letalk.
-📊 I hold a degree in Data Science.
-📚 I am currently graduating in Computer Engineering.
+👩🏻‍💻 I work as a Product Manager at Letalk.<br>
+📊 I hold a degree in Data Science.<br>
+📚 I am currently graduating in Computer Engineering.<br>
 🎓 I also hold an MBA in Design Thinking and People Management.
 ###
 <div align="center">
